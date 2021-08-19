@@ -12,5 +12,5 @@ SeaSoft processing steps:
 
 Python processing Steps:
 
-6.  run GTS.py – convert SeaSoft processed CNV files to TEASAC format. 
+6.  run GTS.py (GTS_sbe25.py/GTS_sbe911.py) – convert SeaSoft processed CNV files to TEASAC format. 
 7.  run Combine.py - combine the output files into one .DTA file 
